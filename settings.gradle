@@ -1,0 +1,3 @@
+rootProject.name = "aiscalesdk"
+//include ':app'
+include ':shake'
